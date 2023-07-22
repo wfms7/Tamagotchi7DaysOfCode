@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNvHV/flBvdSoisB0VlDsIlAyS4peuWZuTAiAHMLjX0fFUubBT/wWraFvms9ZqEuFKbIDAnJ/qqOk3csLcRgxA==",
+  "success": true,
+  "projectFilePath": "D:\\Alura Curso\\desafioAlura\\pokemon\\TamagotchiPokemon\\TamagotchiPokemon\\TamagotchiPokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wfms7\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\wfms7\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\wfms7\\.nuget\\packages\\restsharp.serializers.newtonsoftjson\\110.2.0\\restsharp.serializers.newtonsoftjson.110.2.0.nupkg.sha512",
+    "C:\\Users\\wfms7\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\wfms7\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\wfms7\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
